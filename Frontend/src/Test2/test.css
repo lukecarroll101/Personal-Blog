@@ -1,0 +1,44 @@
+.Dashboard {
+    display: flex;
+    height: 100vh;
+    font-family: Arial, sans-serif;
+  }
+  
+  .sidebar {
+    width: 200px;
+    background-color: #d7f779;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .sidebar-item {
+    margin-bottom: 20px;
+    cursor: pointer;
+  }
+  
+  .sidebar-item.selected {
+    font-weight: bold;
+  }
+  
+  .content {
+    flex: 1;
+    background-color: #000;
+    color: white;
+    padding: 20px;
+    overflow-y: auto;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  .chart {
+    margin-top: 20px;
+  }
+  

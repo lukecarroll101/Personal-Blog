@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "First Blog Post",
+      "image": "Japan.jpg",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit..."
+    },
+    {
+      "id": 2,
+      "title": "Second Blog Post",
+      "image": "Japan2.jpg",
+      "body": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua..."
+    },
+    {
+      "id": 3,
+      "title": "Third Blog Post",
+      "image": "Japan.jpg",
+      "body": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris..."
+    },
+    {
+      "id": 4,
+      "title": "Fourth Blog Post",
+      "image": "Japan2.jpg",
+      "body": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore..."
+    },
+    {
+      "id": 5,
+      "title": "Fifth Blog Post",
+      "image": "Japan.jpg",
+      "body": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia..."
+    }
+  ]
+  
